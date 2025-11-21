@@ -1,5 +1,5 @@
 import Card from "@/components/Card"
-import Button from '../components/Button';
+import Button from '@/components/Button';
 
 const Landing = () => {
   return (
@@ -28,4 +28,5 @@ const Landing = () => {
 };
 
 export default Landing;
+
 
