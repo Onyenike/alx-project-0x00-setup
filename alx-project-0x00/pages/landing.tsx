@@ -11,19 +11,21 @@ const Landing = () => {
         <Button title="Small Rounded SM" size="small" shape="rounded-sm" />
         <Button title="Small Rounded MD" size="small" shape="rounded-md" />
         <Button title="Small Rounded Full" size="small" shape="rounded-full" />
-
+        <Button title="Large Rounded LG" size="large" shape="rounded-lg" /> 
         {/* Medium */}
         <Button title="Medium Rounded SM" size="medium" shape="rounded-sm" />
         <Button title="Medium Rounded MD" size="medium" shape="rounded-md" />
         <Button title="Medium Rounded Full" size="medium" shape="rounded-full" />
-
+        <Button title="Large Rounded LG" size="large" shape="rounded-lg" /> 
         {/* Large */}
         <Button title="Large Rounded SM" size="large" shape="rounded-sm" />
         <Button title="Large Rounded MD" size="large" shape="rounded-md" />
         <Button title="Large Rounded Full" size="large" shape="rounded-full" />
+        <Button title="Large Rounded LG" size="large" shape="rounded-lg" /> 
       </div>
     </div>
   );
 };
 
 export default Landing;
+
